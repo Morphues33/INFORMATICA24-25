@@ -1,0 +1,2 @@
+gcc + file per compilare il file
+./a.out running prompt
